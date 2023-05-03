@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Module 02 Challenge AddIn</Text>
+    <Description>Some description for Addin_Bootcamp_Challenge2</Description>
+    <Assembly>Addin_Bootcamp_Challenge2.dll</Assembly>
+    <FullClassName>Addin_Bootcamp_Challenge2.Module02Challenge</FullClassName>
+    <ClientId>9d46369a-6767-47bf-87fb-e89fbe1ab698</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
